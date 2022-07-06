@@ -1825,6 +1825,14 @@ h1 {
 		.author:hover .name {
 			border-bottom-color: transparent;
 		}
+		}
+/*lugar-nota*/
+.lugar-nota {
+    margin-bottom: 1.5em;
+    margin-right: 0.5em;
+	font-size: 1em;
+
+}
 
 /* Blurb */
 
@@ -2384,7 +2392,7 @@ h1 {
 /*audio-notas*/
 .audio-notas{
     width: 100%;
-    margin-bottom: 3em;
+    margin-bottom:6em;
     height: 30px;
 }
 
